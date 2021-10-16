@@ -1,12 +1,3 @@
-<#
-this script can be found at 
-https://github.com/axel05869/Wifi-Grab
-
----------------------REFERENCE:----------------------
-https://github.com/exploitechx/wifi-password-extractor
-http://adamringenberg.com/powershell2/send-mailmessage
-#>
-
 
 # All the files will be saved in this directory
 $p = "C:\wipass"
